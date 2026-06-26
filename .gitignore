@@ -1,0 +1,8 @@
+ml/venv311/
+ml/venv/
+__pycache__/
+*.pyc
+build/
+.dart_tool/
+.vscode/
+*.mp4
